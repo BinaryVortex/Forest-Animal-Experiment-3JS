@@ -9,9 +9,7 @@ Storytelling In The Woods
         <img alt="Thumbnail" src="./src/Thumbnail.jpg" />
     </a>
 <br>
-<a href="https://houssemlachtar.github.io/Forest-Animal-Experiment/">
-        Demo
-    </a>
+
 </p>
 
 ## Windows Setup
